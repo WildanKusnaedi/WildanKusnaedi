@@ -39,6 +39,6 @@ My name is Wildan Kusnaedi
 </div>
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StigmaX&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WildanKusnaedi&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=StigmaX&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=WildanKusnaedi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
